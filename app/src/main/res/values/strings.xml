@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">风扇遥控器</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--ultransonic control-->
+    <!--ultransonic control-->
+    <string name="hint_first">码值1</string>
+    <string name="hint_second">码值2</string>
+    <string name="btn_send">发送</string>
+    <string name="input_tips">请在输入框中输入0～79的整数！</string>
+    <string name="bt_ok">确定</string>
+    <string name="bt_cancle">取消</string>
+    <string name="prompt">提示</string>
+    <string name="exit_tip_message">你确定要退出吗?</string>
+    <string name="versionName">1.0.1.151226_beta</string>
+    <string name="music1Str1">婉转</string>
+    <string name="music1Str2">悠扬</string>
+    <string name="music1Str3">圆润</string>
+    <string name="music1Str4">美妙</string>
+    <string name="music1Str5">轻快</string>
+    <string name="music1Str6">愉悦</string>
+    <string name="music1Str7">动听</string>
+    <string name="waitMsg">请稍后</string>
+
+</resources>

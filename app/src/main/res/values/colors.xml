@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background_white">#FFFFFFFF</color>
+    <color name="background_gray">#dbdbdb</color>
+    <color name="text_black">#FF000000</color>
+    <color name="line_background">#999999</color>
+    <color name="listview_line_background">#FFFFFFFF</color>
+    <color name="background_blue">#00a5ea</color>
+    <color name="background_transparent">#00FFFFFF</color>
+    <color name="content_list_bg">#242d4f</color>
+    <color name="my_light_green">#45c98d</color>
+    <color name="send_icon_bg">#56528d</color>
+    <color name="purple_bg">#56528d</color>
+
+</resources>

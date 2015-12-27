@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hnyer/activity/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hnyer/bean/Constants.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hnyer/server/MusicService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hnyer/utils/Wlog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_bg.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_send_to_bg.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/btn_clean_bg.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/btn_next_bg.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/btn_play_or_pause_bg.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/btn_previous_bg.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/btn_send_bg.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/btn_send_blue_bg.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

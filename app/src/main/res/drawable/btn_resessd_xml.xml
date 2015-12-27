@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- <item android:drawable="@drawable/checkout_middle" android:state_selected="true"/> -->
+    <item android:drawable="@mipmap/metel_pressed" android:state_focused="false" android:state_pressed="true"/>
+    <item android:drawable="@mipmap/metel_normal"/>
+
+
+    <!--   <item android:drawable="@mipmap/btn_normal_pressed" android:state_focused="false" android:state_pressed="true"/>-->
+<!--    <item android:drawable="@mipmap/btn_normal"/>-->
+
+
+
+</selector>
